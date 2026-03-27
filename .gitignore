@@ -1,2 +1,5 @@
 Task01_BrainTumour
 .venv
+.DS_Store
+__pycache__ 
+.ipynb_checkpoints
